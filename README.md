@@ -148,9 +148,6 @@ FastAPI services with OAuth2, JWT, route protection, API rate limiting, validati
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrehmanafzal-webdeveloper&theme=tokyonight" alt="GitHub activity summary">
-
-<br>
 
 <br>
 

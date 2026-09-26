@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I’m currently working on web apps
+- ⚡ Technologies I use:
+  ![JavaScript](https://shields.io)
+  ![React](https://shields.io)
+  ![Python](https://shields.io)
+

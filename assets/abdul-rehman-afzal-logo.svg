@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Abdul Rehman Afzal personal logo</title>
+  <desc id="desc">A dark blue and cyan geometric AA monogram logo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A35"/>
+      <stop offset="55%" stop-color="#123C78"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="72" fill="#020617"/>
+  <rect x="12" y="12" width="296" height="296" rx="62" fill="url(#bg)" stroke="#38BDF8" stroke-opacity=".45" stroke-width="4"/>
+  <path d="M48 248 112 72h30l64 176h-38l-13-39h-58l-13 39H48Zm60-72h37l-18-57-19 57Zm65 72 64-176h30l65 176h-38l-14-39h-58l-13 39h-36Zm60-72h37l-19-57-18 57Z" fill="url(#accent)"/>
+  <circle cx="264" cy="58" r="9" fill="#67E8F9"/>
+  <circle cx="288" cy="82" r="5" fill="#BAE6FD" opacity=".8"/>
+</svg>

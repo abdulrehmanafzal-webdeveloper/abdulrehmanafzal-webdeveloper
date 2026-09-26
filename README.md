@@ -35,47 +35,47 @@ I’m a **Full-Stack Developer** focused on building production-ready applicatio
 
 ## ✦ Featured Project Showcase
 
-<!-- Replace the three placeholder links below with your real repository URLs and project names. -->
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3>🤖 AI Workflow Platform</h3>
+<h3>🛍️ Shopease E-Commerce</h3>
 
-An intelligent workflow tool using LLMs, agentic loops, tool calling, and automation to reduce repetitive business work.
+A full-stack TypeScript e-commerce experience focused on modern UI quality, product discovery, and an end-to-end shopping flow designed for scalable commerce use cases.
 
-<b>Next.js · FastAPI · LLMs</b>
+<b>TypeScript · Full-Stack Web · E-Commerce</b>
 
 <br><br>
 
-<a href="https://github.com/abdulrehmanafzal-webdeveloper">View project →</a>
+<a href="https://github.com/abdulrehmanafzal-webdeveloper/Shopease-e-commerce">View repository →</a><br>
+<a href="https://shopease-e-commerce.vercel.app">Live demo →</a>
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🛍️ Commerce Experience</h3>
+<h3>🏫 School Content Management System</h3>
 
-A fast, conversion-focused commerce interface with dynamic products, secure accounts, and a headless content layer.
+A TypeScript-based school content-management platform built on a modern Next.js foundation for structured academic content, streamlined updates, and maintainable growth.
 
-<b>Next.js · Payload · TypeScript</b>
+<b>TypeScript · Next.js · CMS Platform</b>
 
 <br><br>
 
-<a href="https://github.com/abdulrehmanafzal-webdeveloper">View project →</a>
+<a href="https://github.com/abdulrehmanafzal-webdeveloper/School-Content-Management-System-CMS-">View repository →</a>
 
 </td>
 <td width="33%" valign="top">
 
-<h3>📊 Business Dashboard</h3>
+<h3>💼 Portfolio App 2</h3>
 
-A role-aware internal platform with analytics, protected routes, robust forms, and actionable data visualizations.
+A responsive developer portfolio built with TypeScript to present projects, technical strengths, and personal brand in a clean, client- and recruiter-friendly format.
 
-<b>React · FastAPI · MySQL</b>
+<b>TypeScript · Portfolio Website · Responsive UI</b>
 
 <br><br>
 
-<a href="https://github.com/abdulrehmanafzal-webdeveloper">View project →</a>
+<a href="https://github.com/abdulrehmanafzal-webdeveloper/Portfolio_app2">View repository →</a><br>
+<a href="https://portfolio-app2-gamma.vercel.app">Live demo →</a>
 
 </td>
 </tr>

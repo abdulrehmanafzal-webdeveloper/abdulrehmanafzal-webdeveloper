@@ -1,26 +1,63 @@
 <div align="center">
 
-# Hi, I'm Abdul Rehman Afzal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:06B6D4&height=180&section=header&text=Abdul%20Rehman%20Afzal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Headless%20CMS&descAlignY=60&descSize=18" alt="Animated profile header">
 
-### Full-Stack Developer · Next.js · FastAPI · Agentic AI · Headless CMS
-
-I build production-ready web applications and AI-powered business tools with a focus on **performance, security, scalability, and maintainable architecture**.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+production-ready+web+applications;Designing+secure+and+scalable+backend+systems;Creating+AI-powered+business+tools;Turning+complex+ideas+into+useful+products" alt="Typing animation"></a>
 
 <p>
-  <a href="https://github.com/abdulrehmanafzal-webdeveloper?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github" alt="Explore projects"></a>
+  <a href="https://github.com/abdulrehmanafzal-webdeveloper?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
   <img src="https://komarev.com/ghpvc/?username=abdulrehmanafzal-webdeveloper&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 </div>
 
+## 👋 About Me
+
+I’m a **Full-Stack Developer** specializing in **Next.js, FastAPI, Agentic AI, and Headless CMS**. I build reliable digital products with an emphasis on **performance, security, scalability, and maintainable architecture**.
+
+- 🔭 Building production-ready web apps and AI-driven business tools
+- 🧠 Interested in agentic workflows, LLM orchestration, and intelligent automation
+- 🏗️ Strong focus on BFF architecture, RBAC, API security, and database optimization
+- 🤝 Open to freelance projects, collaborations, and full-time opportunities
+
 ## 🚀 What I Build
 
-- **AI-powered business tools** — LLM integrations, agentic workflows, tool selection, automation, and model evaluation.
-- **High-performance e-commerce and SaaS platforms** — Role-based access control, dynamic catalogs, dashboards, and custom shopping experiences.
-- **Headless CMS solutions** — Flexible content architectures with Payload CMS and Strapi, paired with modern Next.js frontends.
-- **Secure backend systems** — Well-structured APIs, BFF patterns, rate limiting, optimized database queries, and defense-in-depth security.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧰 Core Technology Stack
+### 🤖 AI-Powered Business Tools
+
+LLM integrations, agent loops, tool selection, workflow automation, prompt engineering, and model evaluation using OpenAI, Gemini, Claude, AWS Bedrock, and PartyRock.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce & SaaS
+
+Scalable platforms with dynamic catalogs, custom shopping experiences, dashboards, secure authentication, and role-based access control.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Headless CMS Solutions
+
+Flexible content architectures with Payload CMS and Strapi, connected to fast and highly interactive Next.js frontends.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Secure Backend Systems
+
+FastAPI services with OAuth2, JWT, route protection, API rate limiting, validation, optimized queries, and defense-in-depth practices.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technology Stack
 
 ### Frontend
 
@@ -31,9 +68,10 @@ I build production-ready web applications and AI-powered business tools with a f
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" alt="Zustand">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
 </p>
 
-### Backend, Data & CMS
+### Backend, Databases & CMS
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -44,7 +82,7 @@ I build production-ready web applications and AI-powered business tools with a f
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi">
 </p>
 
-### AI, Testing & Security
+### AI, Testing & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
@@ -57,30 +95,43 @@ I build production-ready web applications and AI-powered business tools with a f
 
 ## 🧠 Engineering Strengths
 
-- Next.js App Router and server/client component architecture
-- API design with FastAPI, SQLAlchemy, OAuth2, JWT, and secure route protection
-- Agentic AI systems, prompt engineering, LLM orchestration, and workflow automation
-- RBAC, validation, rate limiting, threat-conscious API design, and defense in depth
+- Next.js App Router with server/client component architecture
+- Secure API design with FastAPI, SQLAlchemy, OAuth2, JWT, and route protection
+- Agentic AI systems, LLM orchestration, prompt engineering, and workflow automation
+- RBAC, validation, rate limiting, and defense-in-depth security
 - Database query optimization and scalable backend-for-frontend architecture
 - Accessible, responsive interfaces with Shadcn/ui, Radix UI, MUI, HeroUI, and Tailwind CSS
-- Automated quality assurance with Playwright and Selenium
+- End-to-end quality assurance with Playwright and Selenium
 
 ## 📌 Featured Work
 
-> Add 2–4 of your strongest repositories below. Focus on measurable outcomes, your role, and the technologies used.
+> Replace the examples below with your strongest repositories and measurable outcomes.
 
-- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — Short description of the problem solved, key features, and stack.
-- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — Short description of the business impact or technical challenge.
-- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — Short description of the AI, SaaS, e-commerce, or CMS functionality.
+- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — AI workflow, SaaS, e-commerce, or CMS project with the main business impact.
+- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — Short description of the technical challenge, architecture, and stack.
+- **[Project Name](https://github.com/abdulrehmanafzal-webdeveloper)** — Short description including performance, security, or automation results.
 
-## 🤝 Open to Opportunities
-
-I’m open to collaborating on **full-stack products, AI automation, SaaS platforms, e-commerce systems, and headless CMS projects**.
-
-If you’re hiring or have an interesting project, feel free to connect through my GitHub profile.
+## 📊 GitHub Activity
 
 <div align="center">
 
-### Let's build something reliable, scalable, and useful. ⚡
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrehmanafzal-webdeveloper&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanafzal-webdeveloper&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanafzal-webdeveloper&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+## 🤝 Let’s Work Together
+
+I’m open to **full-stack products, AI automation, SaaS platforms, e-commerce systems, headless CMS projects, freelance work, and engineering roles**.
+
+If you’re hiring or have an interesting product idea, feel free to connect through my GitHub profile.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0D1117&height=120&section=footer&animation=fadeIn" alt="Animated profile footer">
 
 </div>

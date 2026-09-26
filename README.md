@@ -6,9 +6,9 @@
 
 <p>
   <a href="https://github.com/abdulrehmanafzal-webdeveloper?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://REPLACE_WITH_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:abdulrehmanafzal151@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact me"></a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-afzal-6a996631b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- <a href="https://REPLACE_WITH_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> -->
+  <a href="mailto:meet.ar.developer@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact me"></a>
   <img src="https://komarev.com/ghpvc/?username=abdulrehmanafzal-webdeveloper&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
@@ -110,9 +110,9 @@ FastAPI services with OAuth2, JWT, route protection, API rate limiting, validati
 
 > Replace these links with your selected project repositories and live demos.
 
-- **[Shopease E-commerce](https://github.com/abdulrehmanafzal-webdeveloper/Shopease-e-commerce)** — A modern TypeScript commerce application focused on product discovery, shopping experiences, and a polished responsive frontend. [Live demo](https://shopease-e-commerce.vercel.app)
+- **[Shopease E-commerce](https://github.com/abdulrehmanafzal-webdeveloper/Shopease-e-commerce)** — A modern TypeScript commerce application focused on product discovery, shopping experiences, and a polished responsive frontend. [Live demo](https://www.linkedin.com/feed/update/urn:li:activity:7366147776260292608/)
 - **[School Content Management System](https://github.com/abdulrehmanafzal-webdeveloper/School-Content-Management-System-CMS-)** — A Next.js and TypeScript foundation for organizing and presenting school content through a structured web experience.
-- **[Portfolio App](https://github.com/abdulrehmanafzal-webdeveloper/Portfolio_app2)** — A responsive personal portfolio designed to showcase projects, technical capabilities, and professional experience. [Live demo](https://portfolio-app2-gamma.vercel.app)
+
 
 ## 📊 GitHub Activity
 
@@ -135,9 +135,9 @@ If you’re hiring or have an interesting product idea, feel free to connect thr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://REPLACE_WITH_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"></a>
-<a href="mailto:abdulrehmanafzal151@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email me"></a>
+<a href="https://www.linkedin.com/in/abdul-rehman-afzal-6a996631b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<!-- <a href="https://REPLACE_WITH_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"></a> -->
+<a href="mailto:meet.ar.developer@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email me"></a>
 
 <br><br>
 
